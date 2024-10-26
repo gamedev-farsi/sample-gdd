@@ -1,0 +1,1 @@
+# نمونه Game Design Document
